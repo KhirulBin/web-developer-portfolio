@@ -47,6 +47,14 @@ nav a {
 header {
     background: #FFF8F3;
 }
-.banner{
+
+.banner {
     padding: 47px 38px 0 230px;
+    display: flex;
+    align-items: center;
+}
+
+.banner .dp {
+    width: 584px;
+    height: 676px;
 }
